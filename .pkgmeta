@@ -1,0 +1,8 @@
+package-as: DataStore_Spells
+
+move-folders:
+ DataStore_Spells/DataStore_Spells: DataStore_Spells
+
+ignore:
+ - LICENCE.md
+ - README.md
