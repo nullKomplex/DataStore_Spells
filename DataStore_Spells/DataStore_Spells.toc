@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: DataStore_Spells
 ## Notes: Stores information about character spells
 ## Author: Thaoky (EU-Marécages de Zangar)
@@ -11,4 +11,3 @@
 ## X-Curse-Project-ID: 20212
 
 DataStore_Spells.lua
-
